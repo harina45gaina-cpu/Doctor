@@ -1,1 +1,21 @@
-{"name":"Medical Officer Active Recall Console","short_name":"MO Recall","description":"Offline medical recall practice with local progress saving","start_url":"./index.html","scope":"./","display":"standalone","background_color":"#07111e","theme_color":"#07111e","icons":[{"src":"./icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},{"src":"./icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}]}
+{
+  "name": "Medical Officer Recall Console",
+  "short_name": "MO Recall",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#07111e",
+  "theme_color": "#07111e",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
